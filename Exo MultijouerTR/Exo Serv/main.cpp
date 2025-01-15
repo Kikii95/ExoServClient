@@ -1,30 +1,60 @@
 #include "Server.h"
+#include "Thread.h"
+#include <vector>
+#include <iostream>
+#include <atomic>
+#include <chrono>
+#include <thread>
 
-int main()
-{
+std::atomic<int> threadCounter(0);
+
+void handleClient(Server& server, SOCKET clientSocket) {
+    if (clientSocket != INVALID_SOCKET) {
+        std::string clientMessage;
+        while (true) {
+            clientMessage = server.receiveFromClient(clientSocket);
+            if (clientMessage.empty()) {
+                std::cout << "Client deconnecte." << std::endl;
+                break;
+            }
+            std::cout << "Message du client : " << clientMessage << std::endl;
+            server.sendToClient(clientSocket, "Reponse du serveur : " + clientMessage);
+        }
+        Sockets::CloseSocket(clientSocket);
+    }
+}
+
+int main() {
     Server server(9999);
     if (!server.start())
         return -1;
 
-    SOCKET clientSocket1 = server.acceptClient();
-    SOCKET clientSocket2 = server.acceptClient();
+    std::vector<Thread*> clientThreads;
 
-    if (clientSocket1 != INVALID_SOCKET)
-    {
-        std::string clientMessage1 = server.receiveFromClient(clientSocket1);
-        std::cout << "-------------------------------------------- \n";
-        std::cout << "Message du client : " << clientMessage1 << std::endl;
-        server.sendToClient(clientSocket1, "Hi, Client 1 !");
+    while (true) {
+        SOCKET clientSocket = server.acceptClient();
+        if (clientSocket != INVALID_SOCKET) {
+            Thread* thread = new Thread(threadCounter.fetch_add(1) + 1);
+            thread->Start([&server, clientSocket]() { handleClient(server, clientSocket); });
+            clientThreads.push_back(thread);
+        }
+
+        for (auto it = clientThreads.begin(); it != clientThreads.end();) {
+            if (!(*it)->IsRunning()) {
+                delete* it;
+                it = clientThreads.erase(it);
+            }
+            else {
+                ++it;
+            }
+        }
+
+        if (clientThreads.empty()) {
+            std::cout << "Tous les clients sont deconnectes. Arret du serveur." << std::endl;
+            break;
+        }
     }
 
-
-	if (clientSocket2 != INVALID_SOCKET)
-	{
-		std::string clientMessage2 = server.receiveFromClient(clientSocket2);
-        std::cout << "-------------------------------------------- \n";
-		std::cout << "Message du client : " << clientMessage2 << std::endl;
-		server.sendToClient(clientSocket2, "Hi, Client 2 !");
-	}
-
+    std::cout << "Serveur arrete." << std::endl;
     return 0;
 }

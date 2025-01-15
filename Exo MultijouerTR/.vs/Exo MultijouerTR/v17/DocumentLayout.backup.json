@@ -1,30 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kabboud\\source\\repos\\Exo MultijouerTR\\",
+  "WorkspaceRootPath": "C:\\Users\\kabboud\\source\\ExoServClient\\Exo MultijouerTR\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E9DFD19-F238-49DB-9FBE-690CECB3FF1A}|Exo MultijouerTR\\Exo MultijouerTR.vcxproj|C:\\Users\\kabboud\\source\\repos\\Exo MultijouerTR\\Exo MultijouerTR\\Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0E9DFD19-F238-49DB-9FBE-690CECB3FF1A}|Exo MultijouerTR\\Exo MultijouerTR.vcxproj|solutionrelative:Exo MultijouerTR\\Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0E9DFD19-F238-49DB-9FBE-690CECB3FF1A}|Exo Client\\Exo MultijouerTR.vcxproj|C:\\Users\\kabboud\\source\\ExoServClient\\Exo MultijouerTR\\Exo Client\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E9DFD19-F238-49DB-9FBE-690CECB3FF1A}|Exo Client\\Exo MultijouerTR.vcxproj|solutionrelative:Exo Client\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E9DFD19-F238-49DB-9FBE-690CECB3FF1A}|Exo MultijouerTR\\Exo MultijouerTR.vcxproj|C:\\Users\\kabboud\\source\\repos\\Exo MultijouerTR\\Exo MultijouerTR\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0E9DFD19-F238-49DB-9FBE-690CECB3FF1A}|Exo MultijouerTR\\Exo MultijouerTR.vcxproj|solutionrelative:Exo MultijouerTR\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E2C734F-8F9D-4C2B-8D8B-C81CEC831D55}|Exo Serv\\Exo Serv.vcxproj|C:\\Users\\kabboud\\source\\repos\\Exo MultijouerTR\\Exo Serv\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{9E2C734F-8F9D-4C2B-8D8B-C81CEC831D55}|Exo Serv\\Exo Serv.vcxproj|C:\\Users\\kabboud\\source\\ExoServClient\\Exo MultijouerTR\\Exo Serv\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9E2C734F-8F9D-4C2B-8D8B-C81CEC831D55}|Exo Serv\\Exo Serv.vcxproj|solutionrelative:Exo Serv\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E9DFD19-F238-49DB-9FBE-690CECB3FF1A}|Exo MultijouerTR\\Exo MultijouerTR.vcxproj|C:\\Users\\kabboud\\source\\repos\\Exo MultijouerTR\\Exo MultijouerTR\\Client.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0E9DFD19-F238-49DB-9FBE-690CECB3FF1A}|Exo MultijouerTR\\Exo MultijouerTR.vcxproj|solutionrelative:Exo MultijouerTR\\Client.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E2C734F-8F9D-4C2B-8D8B-C81CEC831D55}|Exo Serv\\Exo Serv.vcxproj|C:\\Users\\kabboud\\source\\repos\\Exo MultijouerTR\\Exo Serv\\Server.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{9E2C734F-8F9D-4C2B-8D8B-C81CEC831D55}|Exo Serv\\Exo Serv.vcxproj|C:\\Users\\kabboud\\source\\ExoServClient\\Exo MultijouerTR\\Exo Serv\\Server.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9E2C734F-8F9D-4C2B-8D8B-C81CEC831D55}|Exo Serv\\Exo Serv.vcxproj|solutionrelative:Exo Serv\\Server.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E2C734F-8F9D-4C2B-8D8B-C81CEC831D55}|Exo Serv\\Exo Serv.vcxproj|C:\\Users\\kabboud\\source\\repos\\Exo MultijouerTR\\Exo Serv\\Server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{9E2C734F-8F9D-4C2B-8D8B-C81CEC831D55}|Exo Serv\\Exo Serv.vcxproj|C:\\Users\\kabboud\\source\\ExoServClient\\Exo MultijouerTR\\Exo Serv\\Server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9E2C734F-8F9D-4C2B-8D8B-C81CEC831D55}|Exo Serv\\Exo Serv.vcxproj|solutionrelative:Exo Serv\\Server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2C734F-8F9D-4C2B-8D8B-C81CEC831D55}|Exo Serv\\Exo Serv.vcxproj|C:\\Users\\kabboud\\source\\ExoServClient\\Exo MultijouerTR\\Exo Serv\\Thread.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E2C734F-8F9D-4C2B-8D8B-C81CEC831D55}|Exo Serv\\Exo Serv.vcxproj|solutionrelative:Exo Serv\\Thread.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9DFD19-F238-49DB-9FBE-690CECB3FF1A}|Exo Client\\Exo MultijouerTR.vcxproj|C:\\Users\\kabboud\\source\\ExoServClient\\Exo MultijouerTR\\Exo Client\\Thread.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E9DFD19-F238-49DB-9FBE-690CECB3FF1A}|Exo Client\\Exo MultijouerTR.vcxproj|solutionrelative:Exo Client\\Thread.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2C734F-8F9D-4C2B-8D8B-C81CEC831D55}|Exo Serv\\Exo Serv.vcxproj|C:\\Users\\kabboud\\source\\ExoServClient\\Exo MultijouerTR\\Exo Serv\\Thread.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E2C734F-8F9D-4C2B-8D8B-C81CEC831D55}|Exo Serv\\Exo Serv.vcxproj|solutionrelative:Exo Serv\\Thread.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9DFD19-F238-49DB-9FBE-690CECB3FF1A}|Exo Client\\Exo MultijouerTR.vcxproj|C:\\Users\\kabboud\\source\\ExoServClient\\Exo MultijouerTR\\Exo Client\\Thread.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E9DFD19-F238-49DB-9FBE-690CECB3FF1A}|Exo Client\\Exo MultijouerTR.vcxproj|solutionrelative:Exo Client\\Thread.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9DFD19-F238-49DB-9FBE-690CECB3FF1A}|Exo Client\\Exo MultijouerTR.vcxproj|C:\\Users\\kabboud\\source\\ExoServClient\\Exo MultijouerTR\\Exo Client\\Client.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E9DFD19-F238-49DB-9FBE-690CECB3FF1A}|Exo Client\\Exo MultijouerTR.vcxproj|solutionrelative:Exo Client\\Client.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9DFD19-F238-49DB-9FBE-690CECB3FF1A}|Exo Client\\Exo MultijouerTR.vcxproj|C:\\Users\\kabboud\\source\\ExoServClient\\Exo MultijouerTR\\Exo Client\\Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E9DFD19-F238-49DB-9FBE-690CECB3FF1A}|Exo Client\\Exo MultijouerTR.vcxproj|solutionrelative:Exo Client\\Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,8 +49,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 413,
-          "SelectedChildIndex": 2,
+          "DockedWidth": 363,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,86 +58,138 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Client.h",
-              "DocumentMoniker": "C:\\Users\\kabboud\\source\\repos\\Exo MultijouerTR\\Exo MultijouerTR\\Client.h",
-              "RelativeDocumentMoniker": "Exo MultijouerTR\\Client.h",
-              "ToolTip": "C:\\Users\\kabboud\\source\\repos\\Exo MultijouerTR\\Exo MultijouerTR\\Client.h",
-              "RelativeToolTip": "Exo MultijouerTR\\Client.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Thread.cpp",
+              "DocumentMoniker": "C:\\Users\\kabboud\\source\\ExoServClient\\Exo MultijouerTR\\Exo Client\\Thread.cpp",
+              "RelativeDocumentMoniker": "Exo Client\\Thread.cpp",
+              "ToolTip": "C:\\Users\\kabboud\\source\\ExoServClient\\Exo MultijouerTR\\Exo Client\\Thread.cpp",
+              "RelativeToolTip": "Exo Client\\Thread.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-15T14:47:20.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Thread.h",
+              "DocumentMoniker": "C:\\Users\\kabboud\\source\\ExoServClient\\Exo MultijouerTR\\Exo Client\\Thread.h",
+              "RelativeDocumentMoniker": "Exo Client\\Thread.h",
+              "ToolTip": "C:\\Users\\kabboud\\source\\ExoServClient\\Exo MultijouerTR\\Exo Client\\Thread.h",
+              "RelativeToolTip": "Exo Client\\Thread.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-13T11:13:36.514Z",
+              "WhenOpened": "2025-01-15T14:47:07.056Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Client.cpp",
-              "DocumentMoniker": "C:\\Users\\kabboud\\source\\repos\\Exo MultijouerTR\\Exo MultijouerTR\\Client.cpp",
-              "RelativeDocumentMoniker": "Exo MultijouerTR\\Client.cpp",
-              "ToolTip": "C:\\Users\\kabboud\\source\\repos\\Exo MultijouerTR\\Exo MultijouerTR\\Client.cpp",
-              "RelativeToolTip": "Exo MultijouerTR\\Client.cpp",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\kabboud\\source\\ExoServClient\\Exo MultijouerTR\\Exo Client\\main.cpp",
+              "RelativeDocumentMoniker": "Exo Client\\main.cpp",
+              "ToolTip": "C:\\Users\\kabboud\\source\\ExoServClient\\Exo MultijouerTR\\Exo Client\\main.cpp*",
+              "RelativeToolTip": "Exo Client\\main.cpp*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-13T11:13:38.703Z",
+              "WhenOpened": "2025-01-14T08:10:08.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Client.h",
+              "DocumentMoniker": "C:\\Users\\kabboud\\source\\ExoServClient\\Exo MultijouerTR\\Exo Client\\Client.h",
+              "RelativeDocumentMoniker": "Exo Client\\Client.h",
+              "ToolTip": "C:\\Users\\kabboud\\source\\ExoServClient\\Exo MultijouerTR\\Exo Client\\Client.h",
+              "RelativeToolTip": "Exo Client\\Client.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-14T08:09:56.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Client.cpp",
+              "DocumentMoniker": "C:\\Users\\kabboud\\source\\ExoServClient\\Exo MultijouerTR\\Exo Client\\Client.cpp",
+              "RelativeDocumentMoniker": "Exo Client\\Client.cpp",
+              "ToolTip": "C:\\Users\\kabboud\\source\\ExoServClient\\Exo MultijouerTR\\Exo Client\\Client.cpp",
+              "RelativeToolTip": "Exo Client\\Client.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-14T08:10:07.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 463,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Thread.cpp",
+              "DocumentMoniker": "C:\\Users\\kabboud\\source\\ExoServClient\\Exo MultijouerTR\\Exo Serv\\Thread.cpp",
+              "RelativeDocumentMoniker": "Exo Serv\\Thread.cpp",
+              "ToolTip": "C:\\Users\\kabboud\\source\\ExoServClient\\Exo MultijouerTR\\Exo Serv\\Thread.cpp",
+              "RelativeToolTip": "Exo Serv\\Thread.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-15T14:51:13.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Thread.h",
+              "DocumentMoniker": "C:\\Users\\kabboud\\source\\ExoServClient\\Exo MultijouerTR\\Exo Serv\\Thread.h",
+              "RelativeDocumentMoniker": "Exo Serv\\Thread.h",
+              "ToolTip": "C:\\Users\\kabboud\\source\\ExoServClient\\Exo MultijouerTR\\Exo Serv\\Thread.h",
+              "RelativeToolTip": "Exo Serv\\Thread.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-15T13:58:39.605Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\kabboud\\source\\repos\\Exo MultijouerTR\\Exo MultijouerTR\\main.cpp",
-              "RelativeDocumentMoniker": "Exo MultijouerTR\\main.cpp",
-              "ToolTip": "C:\\Users\\kabboud\\source\\repos\\Exo MultijouerTR\\Exo MultijouerTR\\main.cpp",
-              "RelativeToolTip": "Exo MultijouerTR\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\kabboud\\source\\ExoServClient\\Exo MultijouerTR\\Exo Serv\\main.cpp",
+              "RelativeDocumentMoniker": "Exo Serv\\main.cpp",
+              "ToolTip": "C:\\Users\\kabboud\\source\\ExoServClient\\Exo MultijouerTR\\Exo Serv\\main.cpp",
+              "RelativeToolTip": "Exo Serv\\main.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-13T08:22:28.732Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 413,
-          "SelectedChildIndex": 2,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Server.h",
-              "DocumentMoniker": "C:\\Users\\kabboud\\source\\repos\\Exo MultijouerTR\\Exo Serv\\Server.h",
-              "RelativeDocumentMoniker": "Exo Serv\\Server.h",
-              "ToolTip": "C:\\Users\\kabboud\\source\\repos\\Exo MultijouerTR\\Exo Serv\\Server.h",
-              "RelativeToolTip": "Exo Serv\\Server.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-13T11:14:01.893Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Server.cpp",
-              "DocumentMoniker": "C:\\Users\\kabboud\\source\\repos\\Exo MultijouerTR\\Exo Serv\\Server.cpp",
-              "RelativeDocumentMoniker": "Exo Serv\\Server.cpp",
-              "ToolTip": "C:\\Users\\kabboud\\source\\repos\\Exo MultijouerTR\\Exo Serv\\Server.cpp",
-              "RelativeToolTip": "Exo Serv\\Server.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-13T11:14:02.671Z",
+              "WhenOpened": "2025-01-14T08:10:17.341Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\kabboud\\source\\repos\\Exo MultijouerTR\\Exo Serv\\main.cpp",
-              "RelativeDocumentMoniker": "Exo Serv\\main.cpp",
-              "ToolTip": "C:\\Users\\kabboud\\source\\repos\\Exo MultijouerTR\\Exo Serv\\main.cpp",
-              "RelativeToolTip": "Exo Serv\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABHAAAAAAAAAA==",
+              "Title": "Server.h",
+              "DocumentMoniker": "C:\\Users\\kabboud\\source\\ExoServClient\\Exo MultijouerTR\\Exo Serv\\Server.h",
+              "RelativeDocumentMoniker": "Exo Serv\\Server.h",
+              "ToolTip": "C:\\Users\\kabboud\\source\\ExoServClient\\Exo MultijouerTR\\Exo Serv\\Server.h",
+              "RelativeToolTip": "Exo Serv\\Server.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-14T08:08:11.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Server.cpp",
+              "DocumentMoniker": "C:\\Users\\kabboud\\source\\ExoServClient\\Exo MultijouerTR\\Exo Serv\\Server.cpp",
+              "RelativeDocumentMoniker": "Exo Serv\\Server.cpp",
+              "ToolTip": "C:\\Users\\kabboud\\source\\ExoServClient\\Exo MultijouerTR\\Exo Serv\\Server.cpp",
+              "RelativeToolTip": "Exo Serv\\Server.cpp",
+              "ViewState": "AgIAADwAAAAAAAAAAAAwwFkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-13T09:59:42.784Z",
+              "WhenOpened": "2025-01-14T08:10:16.699Z",
               "EditorCaption": ""
             }
           ]

@@ -45,6 +45,7 @@ bool Server::start()
     }
 
     std::cout << "Serveur demarre sur le port " << port << std::endl;
+    std::cout << "-------------------------------------------- \n";
     return true;
 }
 
@@ -81,7 +82,7 @@ std::string Server::receiveFromClient(SOCKET clientSocket)
     }
     else if (bytesReceived == 0)
     {
-        std::cout << "Le client a ferme la connexion." << std::endl;
+        std::cout << "\nLe client a ferme la connexion." << std::endl;
     }
     else
     {

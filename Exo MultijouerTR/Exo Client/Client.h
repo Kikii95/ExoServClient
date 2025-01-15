@@ -19,4 +19,4 @@ public:
     std::string receiveFromServer();
 };
 
-#endif // CLIENT_H
+#endif

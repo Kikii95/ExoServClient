@@ -1,3 +1,4 @@
-C:\Users\kabboud\source\repos\Exo MultijouerTR\Exo MultijouerTR\Client.cpp;C:\Users\kabboud\source\repos\Exo MultijouerTR\Exo MultijouerTR\x64\Debug\Client.obj
-C:\Users\kabboud\source\repos\Exo MultijouerTR\Exo MultijouerTR\main.cpp;C:\Users\kabboud\source\repos\Exo MultijouerTR\Exo MultijouerTR\x64\Debug\main.obj
-C:\Users\kabboud\source\repos\Exo MultijouerTR\Exo MultijouerTR\Sockets.cpp;C:\Users\kabboud\source\repos\Exo MultijouerTR\Exo MultijouerTR\x64\Debug\Sockets.obj
+C:\Users\kabboud\source\ExoServClient\Exo MultijouerTR\Exo Client\Client.cpp;C:\Users\kabboud\source\ExoServClient\Exo MultijouerTR\Exo Client\x64\Debug\Client.obj
+C:\Users\kabboud\source\ExoServClient\Exo MultijouerTR\Exo Client\main.cpp;C:\Users\kabboud\source\ExoServClient\Exo MultijouerTR\Exo Client\x64\Debug\main.obj
+C:\Users\kabboud\source\ExoServClient\Exo MultijouerTR\Exo Client\Sockets.cpp;C:\Users\kabboud\source\ExoServClient\Exo MultijouerTR\Exo Client\x64\Debug\Sockets.obj
+C:\Users\kabboud\source\ExoServClient\Exo MultijouerTR\Exo Client\Thread.cpp;C:\Users\kabboud\source\ExoServClient\Exo MultijouerTR\Exo Client\x64\Debug\Thread.obj
